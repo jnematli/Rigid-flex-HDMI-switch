@@ -1,5 +1,5 @@
 # TMD351-Rigid-flex-HDMI-switch
-Rigid-Flex HDMI Switch for the Hardware Design course at KU Leuven Campus Group T.
+Rigid-Flex HDMI Switch for the Hardware Design course at KU Leuven Campus Group T. The PCB is designed using Autodesk Eagle.
 
 PCB top side:
 
