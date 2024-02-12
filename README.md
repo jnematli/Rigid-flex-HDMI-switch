@@ -16,3 +16,9 @@ PCB bottom side:
 PCB build-up:
 
 ![buildup](https://github.com/jnematli/TMD351-Rigid-flex-HDMI-switch/assets/159630451/dfb701ab-61bb-4155-af52-6562051783cf)
+
+## License
+
+All design files in this repository are released under the [GNU General Public License version 3 (GPL-3.0)](LICENSE). They can be freely used for personal projects where this device can be of use.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
